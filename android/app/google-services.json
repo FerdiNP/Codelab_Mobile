@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197147848669",
+    "project_id": "modul3-2b494",
+    "storage_bucket": "modul3-2b494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197147848669:android:2712e4315a5797e3935034",
+        "android_client_info": {
+          "package_name": "com.example.codelabmodul3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi24ZSxBhLggmB46ZIopQMtfWzVRzsgjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
