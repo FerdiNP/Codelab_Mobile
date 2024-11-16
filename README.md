@@ -1,4 +1,4 @@
-# codelab for mobile programming practicum
+# codelab for mobile programming practice
 
 select branch for a modul
 
