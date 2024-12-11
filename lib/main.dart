@@ -1,3 +1,4 @@
+import 'package:codelab2/dependency_injection.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
@@ -12,4 +13,5 @@ void main() {
       getPages: AppPages.routes,
     ),
   );
+  DependencyInjection.init();
 }

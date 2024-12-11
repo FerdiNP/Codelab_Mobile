@@ -6,8 +6,11 @@ import '../../components/card_article.dart';
 class GetConnectView extends GetView<GetConnectController> {
   const GetConnectView({Key? key}) : super(key: key);
 
+
   @override
   Widget build(BuildContext context) {
+    Get.put(GetConnectController());
+
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.teal,
